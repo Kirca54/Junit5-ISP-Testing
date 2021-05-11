@@ -1,11 +1,5 @@
 package com.company;
 
-import com.company.lab.Lab1;
-
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.Set;
-
 public class Main {
 
     public static void main(String[] args) {
